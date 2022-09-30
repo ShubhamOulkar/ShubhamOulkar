@@ -1,7 +1,5 @@
-# I am Shubham Oulkar
+## I am Shubham Oulkar
 ### Data Scientist
-
-Skills: SQL/R/Python
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamOulkar&hide=html,SCSS,JavaScript,Shell,CSS,Tex&theme=dark&layout=compact)](https://github.com/ShubhamOulkar/github-readme-stats)
 
